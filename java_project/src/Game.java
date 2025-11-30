@@ -1,9 +1,3 @@
-//class first{
-//   public static void main(String[] args) {
-//    System.out.println("Hello bitches");
-//}
-//}
-
 import javax.swing.*;
 
 public class Game {
