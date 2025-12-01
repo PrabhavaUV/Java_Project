@@ -1,2 +1,50 @@
 https://craftpix.net/freebies/free-zombie-villager-chibi-character-sprites/ 
 ww2 boss
+https://chatgpt.com/share/692d72b8-078c-800a-b35f-8f44b5122601
+
+
+Raw modules
+"
+
+El
+classes involved
+	main
+	charecter/player
+	zombie	
+	environment
+	ui
+	level
+
+main
+	initializing the game 
+	calling all functions
+	
+player
+	player spawning(3 lives)
+	user input (wasd and mouse)
+	mechanics{
+		damage, collision , damage taken ;
+	}
+	bomb and flamethrower(ammo)
+	melee(sword and mace)(unlimited) 
+	player HUD(health points, weapons)
+	player death and despawn
+
+zombie
+	zombie spawning
+	pathfinding(a*)
+	zombie HP
+	zombie Attack pattern
+	zombie death and despawn
+
+environment
+	background animation
+	background collision
+	
+ui
+	game loading screen
+	death screen
+	game start
+	ingame screen(pause)
+	endgame credit
+"
